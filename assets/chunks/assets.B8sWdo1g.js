@@ -1,1 +1,0 @@
-var e=`/architecture.svg`,t=`/architecture-zh-CN.svg`;export{e as n,t};
